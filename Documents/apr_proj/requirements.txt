@@ -1,0 +1,6 @@
+Flask==3.0.2
+numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
+scikit-learn
+
+
